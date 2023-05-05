@@ -1,0 +1,30 @@
+
+.body {
+    background-color: #23689c;
+    
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+  
+  .secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+  }
+  
+  .container{
+    display: flex;
+    align-items: center;
+      justify-content: center;
+      text-align: center;
+      
+  }
+
+  .btn btn-light btn-lg{
+    color: pink;
+  }
+  
